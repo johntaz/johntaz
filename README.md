@@ -4,4 +4,4 @@
 - [Electronic Health Records Group LSHTM](https://www.lshtm.ac.uk/research/centres-projects-groups/electronic-health-records)
 
 
-Contact me: :envelope: john.tazare1@lshtm.ac.uk & [X](https://twitter.com/johntstats)
+Contact me: :envelope: john.tazare1@lshtm.ac.uk 
